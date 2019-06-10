@@ -15,6 +15,14 @@ th,td
     border: none;
     padding: 5px;
 }
+table.result
+{
+    border: 1px solid ;
+    border-collapse: collapse;
+}
+td.result{
+    border:1px solid ;
+}
 
 #content 
 {
