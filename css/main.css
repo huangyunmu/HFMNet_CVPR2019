@@ -17,11 +17,12 @@ th,td
 }
 table.result
 {
-    border: 1px solid ;
+    /* border: 1px solid ; */
+    border:none ;
     border-collapse: collapse;
 }
 td.result{
-    border:1px solid ;
+    border:none;
 }
 
 #content 
